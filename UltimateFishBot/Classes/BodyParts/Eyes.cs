@@ -3,9 +3,9 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Threading;
 using System.Threading.Tasks;
-using UltimateFishBot.Classes.Helpers;
+using RubberBandBall.Classes.Helpers;
 
-namespace UltimateFishBot.Classes.BodyParts
+namespace RubberBandBall.Classes.BodyParts
 {
     class NoFishFoundException : Exception { }
     class Eyes
